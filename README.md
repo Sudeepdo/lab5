@@ -1,4 +1,7 @@
 # lab5
+The Pokemon app looks like;
+![home](./assets/image1.png)
+![home](./assets/image2.png)
 
 In this flutter project  a users can allows for two Pokemon cards using the 
 Pokemon TCG API and battle them based on their HP values. So Here, app fetches 
